@@ -1,3 +1,5 @@
+## Linear Regression Project
+### In this repository, I have uploaded some projects that are related to the linear regression algorithm of machine learning.
 ~~~
 1) House Price Estimator
 ~~~
